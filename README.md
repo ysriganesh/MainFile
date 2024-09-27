@@ -22,7 +22,7 @@ I'm a passionate and dedicated student with a growing skill set in Python, Java,
 1. **[Corona Free Hands (IoT)](Link)**  
    A smart IoT solution designed to minimize the spread of COVID-19 by automating hand sanitization.
 
-2. **[Crop Recommendation System (ML)]([Link](https://github.com/ysriganesh/Crop_reommendation))**  
+2. **[Crop Recommendation System (ML)][https://github.com/ysriganesh/Crop_reommendation]**  
    A machine learning-based crop recommendation system that assists farmers in selecting the best crop based on environmental data.
 
 3. **[Identification of Chemicals in Fish (DL, IoT)]([Link](https://github.com/ysriganesh/Finalyearproject))**  
