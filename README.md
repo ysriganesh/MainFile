@@ -13,7 +13,7 @@ I'm a passionate and dedicated student with a growing skill set in Python, Java,
 ## 🛠️ **Skills**
 - **Programming Languages**: Python, Core Java, Advanced Java (Basics), JavaScript (Basics)
 - **Databases**: SQL
-- **Frameworks & Tools**: Spring Boot, JUnit, Mockito
+- **Frameworks & Tools**: Spring Boot, JUnit, Mockito , JDBC , JPA 
 
 ---
 
@@ -28,7 +28,7 @@ I'm a passionate and dedicated student with a growing skill set in Python, Java,
 3. **[Identification of Chemicals in Fish (DL, IoT)](https://github.com/ysriganesh/Finalyearproject)**  
    Deep learning and IoT solution to identify harmful chemicals in fish to ensure food safety.
 
-4. **[Student Management System (Spring Boot, JUnit, Mockito)](https://github.com/ysriganesh/StudentManagement/blob/main/README.md)**  
+4. **[Student Management System (Spring Boot, JUnit, Mockito, PostMan, MySql)](#)**  
    A comprehensive system for managing student data with testing modules using JUnit and Mockito frameworks.
 
 ---
